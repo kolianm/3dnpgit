@@ -1,10 +1,10 @@
 {
   "production": {
-    "telegramToken": "",
-    "connectionString": ""
+    "telegramToken": "493697835:AAE6N2IZnMhj-H3JHDCYvfcQ63L-n1IUwz8",
+    "connectionString": "mongodb://com3dnp:Paulaner1@ds042527.mlab.com:42527/3dnp"
   },
   "development": {
-    "telegramToken": "",
-    "connectionString": ""
+    "telegramToken": "493697835:AAE6N2IZnMhj-H3JHDCYvfcQ63L-n1IUwz8",
+    "connectionString": "mongodb://com3dnp:Paulaner1@ds042527.mlab.com:42527/3dnp"
   }
 }
